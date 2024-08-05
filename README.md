@@ -15,4 +15,5 @@ In development mode, the server will be running on [`localhost:4000`](http://loc
 
 
 To add a default Admin: "mix run priv/repo/seeds.exs" 
-email: admin@admin.com, password: 1234567890
+email: admin@admin.com
+password: 1234567890
